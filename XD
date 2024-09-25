@@ -1,0 +1,12 @@
+git init
+git add . (para poner los archivos del proyecto)
+
+git commit -m "first commit"
+
+git branch -M main
+
+(pones el mail y el name del usuario)
+
+git remote add origin "Direccion del repositorio"
+
+git push -u origin main (luego pones el token)
